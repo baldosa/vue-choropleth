@@ -81,7 +81,7 @@ export default {
 }
 </script>
 <style>
-.info.legend span {
+.info-panel.legend span {
   display: block;
 }
 
